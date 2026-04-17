@@ -30,3 +30,9 @@ addButton.addEventListener("click", function () {
   todoList.appendChild(li);
   input.value = "";
 });
+
+input.addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    addButton.click();
+  }
+});
