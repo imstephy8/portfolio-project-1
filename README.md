@@ -1,4 +1,4 @@
-# portfolio-project-1
+# todo-web-app
 My first SWE project
 
 Starting my new project today.
