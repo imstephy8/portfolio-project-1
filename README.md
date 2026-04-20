@@ -14,4 +14,5 @@ I built this project to practice:
 - JavaScript DOM manipulation
 
 ## Live Demo
+click the link below:
 [View the project here](http://stephanieyyu.com/todo-web-app/)
